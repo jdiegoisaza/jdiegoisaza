@@ -159,20 +159,6 @@ Graduated in **2023**
 * 💼 LinkedIn: [linkedin.com/in/jdiegoisaza](https://www.linkedin.com/in/jdiegoisaza/)
 * 📧 Email: [juan.diego-13@hotmail.com](mailto:juan.diego-13@hotmail.com)
 
-<details>
-  <summary><strong>Optional notes for this profile</strong></summary>
-
-This README is intentionally clean and focused on engineering, DevSecOps, cloud, and automation topics.
-If you want, you can later add:
-
-* featured repositories
-* certifications
-* GitHub stats
-* blog or portfolio links
-* bilingual version
-
-</details>
-
 ---
 
 <div align="center">
