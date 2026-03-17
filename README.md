@@ -1,7 +1,10 @@
 # Juan Diego Isaza Londoño 👋
 
 <div align="center">
+<img width="512" height="768" alt="Image" src="https://github.com/user-attachments/assets/5fefadac-adbd-4277-81ed-5b45e64ee704" />
 
+</div>
+<div align="center">
 **DevSecOps Specialist · Azure DevOps · CI/CD · Automation · Platform Security**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Isaza-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jdiegoisaza/)
